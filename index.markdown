@@ -31,5 +31,15 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td><time datetime="2026-06-29">June 29, 2026</time></td>
+            <td>Lecture 2: Resource Abstraction and Operating System Services</td>
+            <td>
+                <a href="{{ '/lecture-2-resource-abstraction-and-operating-system-services/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
