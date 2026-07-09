@@ -38,5 +38,14 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td>Lecture 3: Types of Operating Systems – Batch Operating System and Multiprogramming Operating System</td>
+            <td>
+                <a href="{{ '/lecture-3-types-of-operating-systems-batch-operating-system-and-multiprogramming-operating-system/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
