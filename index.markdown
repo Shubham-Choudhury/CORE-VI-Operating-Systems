@@ -47,5 +47,23 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td>Lecture 4: Time-Sharing Operating System</td>
+            <td>
+                <a href="{{ '/lecture-5-time-sharing-operating-system/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Lecture 5: Operating Systems for Personal Computers and Workstations</td>
+            <td>
+                <a href="{{ '/lecture-6-operating-systems-for-personal-computers-and-workstations/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
