@@ -1,9 +1,9 @@
 ---
 layout: base
-title: "Lecture 7: Process Control Operating Systems (Process Concept and Process Management)"
+title: "Lecture 6: Process Control Operating Systems (Process Concept and Process Management)"
 date: 2026-06-25 10:30:00 +0530
 categories: jekyll update
-permalink: "/lecture-7-process-control-operating-systems/"
+permalink: "/lecture-6-process-control-operating-systems/"
 ---
 
 # {{ page.title | escape }}

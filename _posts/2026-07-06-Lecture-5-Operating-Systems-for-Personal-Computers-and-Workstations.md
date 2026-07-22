@@ -1,9 +1,9 @@
 ---
 layout: base
-title: "Lecture 6: Operating Systems for Personal Computers and Workstations"
+title: "Lecture 5: Operating Systems for Personal Computers and Workstations"
 date: 2026-06-25 10:30:00 +0530
 categories: jekyll update
-permalink: "/lecture-6-operating-systems-for-personal-computers-and-workstations/"
+permalink: "/lecture-5-operating-systems-for-personal-computers-and-workstations/"
 ---
 
 # {{ page.title | escape }}

@@ -1,9 +1,9 @@
 ---
 layout: base
-title: "Lecture 9: Comparison of Different Types of Operating Systems"
+title: "Lecture 8: Comparison of Different Types of Operating Systems"
 date: 2026-06-25 10:30:00 +0530
 categories: jekyll update
-permalink: "/lecture-9-comparison-of-different-types-of-operating-systems/"
+permalink: "/lecture-8-comparison-of-different-types-of-operating-systems/"
 ---
 
 # {{ page.title | escape }}

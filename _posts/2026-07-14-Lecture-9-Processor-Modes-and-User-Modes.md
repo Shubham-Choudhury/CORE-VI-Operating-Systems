@@ -1,9 +1,9 @@
 ---
 layout: base
-title: "Lecture 11: Processor Modes and User Modes"
+title: "Lecture 9: Processor Modes and User Modes"
 date: 2026-06-25 10:30:00 +0530
 categories: jekyll update
-permalink: "/lecture-11-processor-modes-and-user-modes/"
+permalink: "/lecture-9-processor-modes-and-user-modes/"
 ---
 
 # {{ page.title | escape }}

@@ -1,9 +1,9 @@
 ---
 layout: base
-title: "Lecture 12: Kernel: Structure, Functions, and Types"
+title: "Lecture 10: Kernel: Structure, Functions, and Types"
 date: 2026-06-25 10:30:00 +0530
 categories: jekyll update
-permalink: "/lecture-12-kernel-structure-functions-and-types/"
+permalink: "/lecture-10-kernel-structure-functions-and-types/"
 ---
 
 # {{ page.title | escape }}

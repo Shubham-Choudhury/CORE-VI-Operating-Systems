@@ -1,9 +1,9 @@
 ---
 layout: base
-title: "Lecture 5: Time-Sharing Operating System"
+title: "Lecture 4: Time-Sharing Operating System"
 date: 2026-06-25 10:30:00 +0530
 categories: jekyll update
-permalink: "/lecture-5-time-sharing-operating-system/"
+permalink: "/lecture-4-time-sharing-operating-system/"
 ---
 
 # {{ page.title | escape }}

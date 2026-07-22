@@ -1,9 +1,9 @@
 ---
 layout: base
-title: "Lecture 13: System Calls"
+title: "Lecture 11: System Calls"
 date: 2026-06-25 10:30:00 +0530
 categories: jekyll update
-permalink: "/lecture-13-system-calls/"
+permalink: "/lecture-11-system-calls/"
 ---
 
 # {{ page.title | escape }}

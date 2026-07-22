@@ -50,7 +50,7 @@ layout: base
         <tr>
             <td>Lecture 4: Time-Sharing Operating System</td>
             <td>
-                <a href="{{ '/lecture-5-time-sharing-operating-system/' | relative_url }}">
+                <a href="{{ '/lecture-4-time-sharing-operating-system/' | relative_url }}">
                     View Notes
                 </a>
             </td>
@@ -59,7 +59,34 @@ layout: base
         <tr>
             <td>Lecture 5: Operating Systems for Personal Computers and Workstations</td>
             <td>
-                <a href="{{ '/lecture-6-operating-systems-for-personal-computers-and-workstations/' | relative_url }}">
+                <a href="{{ '/lecture-5-operating-systems-for-personal-computers-and-workstations/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Lecture 6: Process Control Operating Systems (Process Concept and Process Management)</td>
+            <td>
+                <a href="{{ '/lecture-6-process-control-operating-systems/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Lecture 7: Real-Time Operating Systems</td>
+            <td>
+                <a href="{{ '/lecture-7-real-time-operating-systems/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Lecture 8: Comparison of Different Types of Operating Systems</td>
+            <td>
+                <a href="{{ '/lecture-8-comparison-of-different-types-of-operating-systems/' | relative_url }}">
                     View Notes
                 </a>
             </td>
