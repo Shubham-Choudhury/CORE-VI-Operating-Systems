@@ -92,5 +92,14 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td>Lecture 9: Processor Modes and User Modes</td>
+            <td>
+                <a href="{{ '/lecture-9-processor-modes-and-user-modes/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
